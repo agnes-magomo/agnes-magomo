@@ -4,7 +4,7 @@
 - 💞️ I’m looking to build a community where we can all be stressed about debugging...together  
 - 📫 How to reach me: www.linkedin.com/in/agnes-magomo-1279881a6
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: Bran should've never been king  
+- ⚡ Fun fact: I believe that 'everything is figureoutable', especially when it comes to coding   
 
 <!---
 agnes-magomo/agnes-magomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
